@@ -1,19 +1,35 @@
-# Day 2: Login Screen & Input
+# Day 2 – Layout and Input
 
-## Topics
-- Stack views / layout
-- UITextField / TextField
-- Form inputs and validation
+## 📚 Topics
+- SwiftUI: VStack, HStack, TextField, SecureField
+- UIKit: Stack Views, UITextField, Auto Layout
+- Handling text input and simple forms
 
-## Tasks
-1. Read Big Nerd Ranch Chapters 3–4 (UIKit and SwiftUI)
-2. Complete chapter exercises
-3. Review DemoApp `Day2` implementation
-4. **Project:** Create a Login screen
-   - Two text fields: username and password
-   - Login button that prints result
+## 🧠 Learning Objectives
+- Create layouts with multiple UI elements
+- Capture user input through text fields
+- Practice auto layout or stacking for positioning
+- Build a basic login-style form
 
-## Banking App Task
-- Create a login screen that accepts a mocked username/password
-- On “Login”, validate inputs (simple match to preset string)
-- Show success/failure with a label update
+## ✅ Tasks
+1. Read Chapters:
+   - SwiftUI: Chapters 3–4
+   - UIKit: Chapters 3–4
+
+2. Complete Exercises in the book for layout and input handling
+
+3. Study DemoApp:
+   - See how fields are arranged and input is managed
+
+4. Mini Project – **Login Screen**
+   - Build a login screen with:
+     - Username field
+     - Password field
+     - Login button
+   - Optional: Validate input or print a welcome message
+
+## 💡 Tips
+- Use `TextField` and `SecureField` in SwiftUI with `@State` bindings
+- Use `UITextField` in UIKit and handle `.editingChanged` or `.editingDidEnd`
+- Keep layout readable and intuitive
+

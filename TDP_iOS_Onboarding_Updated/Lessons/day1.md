@@ -1,22 +1,35 @@
-# Day 1: Welcome Screen & Counter
+# Day 1 – Getting Started with Xcode and Basic UI
 
-## Topics
-- Xcode basics
-- ViewControllers
-- UILabel, UIButton
-- @State / state variables
+## 📚 Topics
+- SwiftUI: Views, Modifiers, Button, Text
+- UIKit: ViewController, UILabel, UIButton
+- Xcode project setup, Swift syntax basics
 
-## Tasks
-1. Read Big Nerd Ranch Chapters 1–2 (UIKit and SwiftUI)
-2. Complete chapter exercises
-3. Review DemoApp `Day1` implementation
-4. **Project:** Create a Welcome screen and basic Counter app
-   - One label with "Welcome!"
-   - A button that increments a counter value
-   - Update label to show current count
+## 🧠 Learning Objectives
+- Set up a new Xcode project
+- Create and layout UI elements like labels and buttons
+- Respond to button taps and update UI
+- Understand basic Swift syntax (functions, variables, types)
 
-## Banking App Task
-- Create a Savings Counter screen:
-   - Buttons: “Increase Deposit”, “Decrease Deposit”
-   - Label: Current deposit amount
-   - Label: Estimated total savings after 10 years (assume 2% interest)
+## ✅ Tasks
+1. Read Chapters:
+   - SwiftUI: Chapters 1–2
+   - UIKit: Chapters 1–2
+
+2. Complete Exercises in the book for basic UI setup
+
+3. Study DemoApp:
+   - Observe how views are added and modified
+   - Button actions and state changes
+
+4. Mini Project – **Welcome Screen / Counter App**
+   - Build a screen with a greeting label and a button
+   - When the button is tapped, update the label to increment a count
+   - (SwiftUI) Use `@State` to store count
+   - (UIKit) Use an `Int` variable and `IBAction` to update `UILabel`
+
+## 💡 Tips
+- Start small: get the UI to show up first
+- Add padding, font size, and color to make it readable
+- For UIKit, wire up IBOutlets and IBActions in storyboard or code
+
