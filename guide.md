@@ -1,25 +1,19 @@
-# 📖 Facilitator Guide — iOS Training (Week 1 & 2)
+=# Facilitator Guide – Week 1 & Week 2
 
-## 🎯 Purpose
-This guide ensures consistency across facilitators by outlining:
-- **How each day is structured** (time breakdown)
-- **How to interact with students** during the live build
-- **When and how to introduce stretch goals**
-- **How to transition to capstone work**
-
-The **specific topics, demo app steps, and capstone tasks** for each day are already documented in the daily instructions — this is the high-level delivery playbook.
+This guide ensures a consistent delivery style across facilitators.  
+It’s designed for a **2-hour live session** each day, followed by self-paced capstone work.
 
 ---
 
-## 🗓 Daily Flow (2-Hour Live Session)
+## Session Flow
 
-| Time | Activity | Notes |
-|------|----------|-------|
-| **0–5 min** | **Recap Yesterday** | Call on 1–2 students to explain what they built and learned yesterday. Keep it brief, but let them do most of the talking. |
-| **5–15 min** | **Preview Today** | Show what you’ll be building today in the demo app and how it relates to their capstone. Give a quick run-through of the finished version so they know the end goal. |
-| **15–90 min** | **Guided Build — Demo App** | Share your screen, but let students **dictate the code** as much as possible. Ask leading questions like “What should go here?” or “What’s the method we need for that?”<br>Run the app often to show progress.<br>Pause occasionally to explain “why” behind a step. |
-| **90–105 min** | **Stretch Goal (Optional)** | If the core goal is complete early, pitch an idea: *“We have 15 minutes left — should we try adding a search bar?”* Let the group decide whether to attempt it. |
-| **105–120 min** | **Wrap-Up & Capstone Handoff** | Summarize what was built, call out 2–3 “key takeaways,” and clearly explain the capstone task for the afternoon. |
+| Time         | Activity | Notes |
+|--------------|----------|-------|
+| **0–5 min**  | **Recap Yesterday** | Call on 1–2 students to explain what they built and learned yesterday. Ask if anyone attempted the stretch goal and let them share their solution or challenges. Keep it brief so it doesn’t cut into today’s build. |
+| **5–10 min** | **Preview Today** | Briefly outline today’s core topics and mention the stretch goal(s) so students know what’s coming. |
+| **10–90 min**| **Live Demo & Build** | Use the demo app to introduce concepts. Facilitate like a collaborative build—students “drive” by suggesting code and solutions while you type or share screen. Pause after key steps to answer questions. |
+| **90–110 min**| **Capstone Work Start** | Students apply the day’s core concepts to their capstone. Walk around (or check in virtually) to answer questions and unblock students. Encourage them to start the stretch goal if they finish early. |
+| **110–120 min**| **Wrap-Up & Tomorrow Preview** | Highlight what they’ll need tomorrow, suggest prep (e.g., reviewing today’s code), and encourage thinking about the stretch goal overnight. |
 
 ---
 
@@ -36,16 +30,48 @@ The **specific topics, demo app steps, and capstone tasks** for each day are alr
 
 ---
 
+## Facilitation Tips
+
+- **Balance Core & Stretch**  
+  Core tasks must be complete before touching stretch goals. If time allows in the demo, model a stretch goal quickly so students see the process.
+
+- **Interactive Delivery**  
+  Resist coding the entire demo yourself. Ask guiding questions:  
+  - “What’s the next step?”  
+  - “Which property should we update?”  
+  - “How could we make this more reusable?”
+
+- **Check for Understanding**  
+  After each milestone, call on different students to explain what just happened in their own words.
+
+- **Stretch Goal Positioning**  
+  Emphasize that stretch goals are optional but valuable for deepening understanding and building confidence. Use them to fill time if students finish core work early.
+
+- **Peer Learning**  
+  Encourage students who completed a stretch goal to help peers or present their approach during the next day’s recap.
+
+---
+## 💡 Example Facilitator Prompts
+- **Recap:** “Who remembers what our stretch goal was yesterday? Did anyone try it?”
+- **Lead-in:** “We’re going to make this tableview a little more dynamic — what’s the first thing we need to add?”
+- **Decision Point:** “We have 20 minutes left — do you want to start the stretch goal or refine what we have so far?”
+- **Wrap-up:** “In your capstone this afternoon, you’ll be doing the same thing we just built — but with your banking accounts screen.”
+---
+
+## Daily Flow Example
+
+- **Yesterday recap (5 min)** → “Did anyone try the search bar stretch goal? Can you walk us through it?”  
+- **Today’s preview (5 min)** → “We’re adding table views today—by the end of this, your banking app will have a list of accounts. Stretch goal: try a custom cell with icons and add a mudflap.”  
+- **Live demo build (80 min)**  
+- **Capstone start (20 min)**  
+- **Wrap up (10 min)** → “Tomorrow we’ll push from your table view to a details screen. Think about what data you’ll need to pass along.”
+
+---
+
 ## 🛠 Tools & Resources
 - **Charles Proxy** — Use for API mocking, rewrites, and mappings where the real API does not yet exist.
 - **Daily Instructions** — Contain the specific topics, demo steps, capstone tasks, and stretch goals for that day.
 - **Capstone Project** — Students work on this after the live session, applying the same concepts from the demo.
 
 ---
-
-## 💡 Example Facilitator Prompts
-- **Recap:** “Who remembers what our stretch goal was yesterday? Did anyone try it?”
-- **Lead-in:** “We’re going to make this tableview a little more dynamic — what’s the first thing we need to add?”
-- **Decision Point:** “We have 20 minutes left — do you want to start the stretch goal or refine what we have so far?”
-- **Wrap-up:** “In your capstone this afternoon, you’ll be doing the same thing we just built — but with your banking accounts screen.”
 
