@@ -1,4 +1,4 @@
-=# Facilitator Guide – Week 1 & Week 2
+# Facilitator Guide – Week 1 & Week 2
 
 This guide ensures a consistent delivery style across facilitators.  
 It’s designed for a **2-hour live session** each day, followed by self-paced capstone work.
@@ -14,6 +14,23 @@ It’s designed for a **2-hour live session** each day, followed by self-paced c
 | **10–90 min**| **Live Demo & Build** | Use the demo app to introduce concepts. Facilitate like a collaborative build—students “drive” by suggesting code and solutions while you type or share screen. Pause after key steps to answer questions. |
 | **90–110 min**| **Capstone Work Start** | Students apply the day’s core concepts to their capstone. Walk around (or check in virtually) to answer questions and unblock students. Encourage them to start the stretch goal if they finish early. |
 | **110–120 min**| **Wrap-Up & Tomorrow Preview** | Highlight what they’ll need tomorrow, suggest prep (e.g., reviewing today’s code), and encourage thinking about the stretch goal overnight. |
+
+---
+
+## 💡 Stretch Goal Discussion
+
+> **When to cover:**
+> - **Start of session**: Briefly recap yesterday’s stretch goal and invite volunteers to share their solutions (max 2–3 min).
+> - **During demo**: If time allows after core content, demo or discuss today’s stretch goal to spark ideas.
+> - **End of session**: Remind students of today’s stretch goal so they can work on it during capstone time or overnight.
+>
+> **Key phrases for facilitators:**
+> - “Yesterday’s stretch goal was ____. Did anyone try it?”
+> - “Let’s take 5–10 minutes to see how we could approach today’s stretch goal.”
+> - “If you finish early today, the stretch goal is a great way to level up.”
+>
+> **Example for this day:**  
+> _(Replace with today’s specific stretch goal from the daily instructions)_
 
 ---
 
@@ -51,11 +68,13 @@ It’s designed for a **2-hour live session** each day, followed by self-paced c
   Encourage students who completed a stretch goal to help peers or present their approach during the next day’s recap.
 
 ---
-## 💡 Example Facilitator Prompts
+
+## 💬 Example Facilitator Prompts
 - **Recap:** “Who remembers what our stretch goal was yesterday? Did anyone try it?”
 - **Lead-in:** “We’re going to make this tableview a little more dynamic — what’s the first thing we need to add?”
 - **Decision Point:** “We have 20 minutes left — do you want to start the stretch goal or refine what we have so far?”
 - **Wrap-up:** “In your capstone this afternoon, you’ll be doing the same thing we just built — but with your banking accounts screen.”
+
 ---
 
 ## Daily Flow Example
